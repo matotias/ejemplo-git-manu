@@ -1,1 +1,3 @@
 print('lalala')
+
+print('hohoho')
